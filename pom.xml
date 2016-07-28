@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>frankenstein</groupId>
-  <artifactId>com</artifactId>
+  <groupId>com.frankenstein</groupId>
+  <artifactId>laboratory</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>com</name>
+  <name>EE Java Demo</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -26,5 +26,18 @@
       <artifactId>selenium-java</artifactId>
       <version>2.53.1</version>
     </dependency>
+      <dependency>
+          <groupId>org.slf4j</groupId>
+          <artifactId>slf4j-log4j12</artifactId>
+          <version>1.7.5</version>
+          <scope>test</scope>
+      </dependency>
+      <dependency>
+          <groupId>log4j</groupId>
+          <artifactId>log4j</artifactId>
+          <version>1.2.17</version>
+          <scope>test</scope>
+      </dependency>
   </dependencies>
+
 </project>

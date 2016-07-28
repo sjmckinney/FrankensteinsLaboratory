@@ -1,4 +1,4 @@
-package frankenstein;
+package com.frankenstein;
 
 /**
  * Hello world!

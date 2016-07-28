@@ -1,0 +1,7 @@
+
+laboratory.passcode=1231
+laboratory.passcode.incorrect=1234
+browser.undertest=firefox
+webdriver.ie.driver=C:\Path\to\IEDriverServer\IEDriverServer.exe
+#rpca.url=http://www.34protons.co.uk/dojo/laboratory.htm
+rpca.url=http://localhost/Frankenstein/laboratory.html

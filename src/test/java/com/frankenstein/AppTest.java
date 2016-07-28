@@ -1,4 +1,4 @@
-package frankenstein;
+package com.frankenstein;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
